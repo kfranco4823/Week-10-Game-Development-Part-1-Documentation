@@ -41,14 +41,23 @@ Test both attack and defense and make sure rows get added or removed accordingly
 | Requirement 1 | `docs/example.md` | `evidence/requirement-01.png` |
 
 |Context and Game Study|docs/Development Document.md|Development Document Steps|
+
 |Prepared Environment|src\DungeonGame\Bracer Guild - Pom Party|Project Build|
+
 |Development Document|docs/Development Document.md|Development Document Steps|
+
 |Adaptation Decisions|docs/Development Document.md|Development Document Steps|
+
 |Prepared Assets|Assets folder|Assets shown in folder|
+
 |Readiness Review and Discord Proof|docs/discord|Discord posting proof|
+
 |Git History *|Commit History|Github Repo Link|
+
 |Root README Map *|README.MD|Github Repo Link|
+
 |Complete Repository *|https://github.com/kfranco4823/Week-10-Game-Development-Part-1-Documentation|All Requirements Met|
+
 |Accessible Git Link *|https://github.com/kfranco4823/Week-10-Game-Development-Part-1-Documentation|All Requirements Met|
 
 Context and Game Study
