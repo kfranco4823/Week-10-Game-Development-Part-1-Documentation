@@ -1,0 +1,20 @@
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\bin\Debug\net10.0-windows\Bracer Guild - Pom Party.exe
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\bin\Debug\net10.0-windows\Bracer Guild - Pom Party.deps.json
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\bin\Debug\net10.0-windows\Bracer Guild - Pom Party.runtimeconfig.json
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\bin\Debug\net10.0-windows\Bracer Guild - Pom Party.dll
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\bin\Debug\net10.0-windows\Bracer Guild - Pom Party.pdb
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\MainWindow.g.vb
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Application.g.vb
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party_MarkupCompile.cache
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party_MarkupCompile.lref
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.g.resources
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.AssemblyInfoInputs.cache
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.AssemblyInfo.vb
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.vbproj.CoreCompileInputs.cache
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.dll
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\refint\Bracer Guild - Pom Party.dll
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.pdb
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\Bracer Guild - Pom Party.genruntimeconfig.cache
+C:\Users\purpl\Documents\School Antics\SUMMER 2026\VISUAL B.N\CS120\Week 10\src\DungeonGame\Bracer Guild - Pom Party\obj\Debug\net10.0-windows\ref\Bracer Guild - Pom Party.dll
