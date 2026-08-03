@@ -15,10 +15,15 @@ can look like in terms of different assets and developments.
 | Area | Observation | Why it matters |
 |---|---|---|
 | Screen or interface|Title screen and background asset|Adds unique touch and immersions to make the game easier to understand|
+
 | User or player action|Paddle and Ball Movement|Allows actual gameplay to take place|
+
 | Data or state|Data of Code|Allows to be looked at time and time again and know exactly what is taking place in its current state|
+
 | Asset or media|Background image Assets and Bricks|Gives easier understanding to gameplay|
+
 | Code or project structure|Code is organized step by step|Allows for less errors and makes it easier to fix any in case|
+
 
 ## Keep, change, or replace
 
@@ -27,7 +32,9 @@ can look like in terms of different assets and developments.
 | | Keep / Change / Replace | | |
 
 |Keyboard Controls|Keep|Easy for anyone to pick up and play with knowledge|No Changes, keep using keyboard as intended|
+
 |Asset or Media|Replace|Using the Images I have ready, it gives the same unique vibe for background and actual assets|No Changes, keep using assets as intended|
+
 |Gameplay|Change|I want it to resemble more of a Tetris type game instead of a ball and paddle game|No Changes, Original Game Idea as intended|
 
 
