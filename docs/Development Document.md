@@ -60,8 +60,11 @@ already.
 | Example: The tutorial begins with a title screen | Keep | The player needs a clear entry point | Add title screen to the screen map |
 
 |The gameplay features a image asset as the background|Keep|It adds uniqueness and adds immersion|Find Image Asset to use as background for gameplay|
+
 |The ball hits the bricks and they disappear off the board|Keep|I want something that is similar when stacking the same colors and having the bricks dissapear|Ensure bricks disappear when interacted with|
+
 |Starts with "Title = MainWindow" and adjusts Width and Height|Keep|I want to be able to create a good sized window so that it doesn't feel clunky or tight|Add a tested window size that feels good to play on|
+
 |Code for "DrawBricks"|Change|I want to make the bricks the main source of gameplay instead of relying on the ball|Find a way to allows bricks to fall and stay in place|
 
 ## Systems and screens
@@ -71,10 +74,15 @@ already.
 | Example: Main menu | Start button | Opens the game | Game screen appears |
 
 |Main Menu|Start Button|Opens Game|Game Begins dropping Bricks
+
 |Move Brick Left or Right|Left or Right Arrow|Moves Brick|Brick Moves to desired area
+
 |Move Brick Down Faster|Down Arrow|Brick Moves Down|Allows Brick to fall faster
+
 |Colors Match Row|Row Full of Color|Row Clears|Gain CP
+
 |CP Meter|Enter Key|Auto Filling Gauge|Allows Ability to Remove from personal or add to opponent.
+
 |Game Over|You or Opponet reach the top before the other|Ends Game|Restart or Exit Buttons Appear
 
 
@@ -85,10 +93,15 @@ already.
 | Example: playerHealth | Integer | Stores current health | 100 |
 
 |CP Gauge|Integer|Shows CP Level|200
+
 |Total Score|Integer|Shows Score of Each player|15000
+
 |Current Brick|String|Shows Current Brick falling down|Blue
+
 |Next Brick|String|Shows the Next Brick to fall after you place the current|Red
+
 |Brick History|String|Shows previous number of bricks fallen down|Red, Green, Purple, Orange, Orange, Green, Blue, Yellow
+
 |Speed|String|Allows to speed up or slow down gameplay|0.5x, 1.0x, 1.5x, 2.0x, 3.0x
 
 
@@ -99,11 +112,17 @@ already.
 | Example: CalculateDamage | Calculates attack damage | Attack power | Damage amount |
 
 |MoveBrick|Moves Brick to Desired Location|Left or Right Arrow|Brick Moves
+
 |PlaceBrickFast|Brick Falls Down Faster|Down Arrow|Brick Moves
+
 |Game Speed|Allows faster or slower gameplay|Space Bar|Gameplay Speeds up
+
 |Defense|Clears personal rows depending on CP used|Enter Key|Gives you more room
+
 |Action|Adds Rows to opponents board|Enter Key|Gives opponent less room
+
 |Surrender|Forfiet the match if their is no hope|F4|Surroender and give up the win
+
 |RestartButton|Allows for Game to be played again|Mouse Click Button|Starts Game from beginning
 
 
@@ -138,11 +157,17 @@ Unique Board Designs
 
 
 |Project setup|Empty project runs and is committed|Week 10|Complete
+
 |Development Document|Document typed with all accurate information|Week 10|Complete
+
 |Adaptation Decisions|Document typed with all accurate information|Week 10|Complete
+
 |Prepared Assets|Have Assets Ready to Use in Project|Week 10|Complete
+
 |Complete Repository|All Submission Requirments met|Week 10|Complete
+
 |Tested and Working First Build|Game Runs and has the general skeleton|Week 11|In Progress
+
 |Final Game|Game complete with all assets and functionality|?|In Progress
 
 ## Questions and decisions
@@ -151,7 +176,9 @@ Unique Board Designs
 |---|---|---|---|---|
 
 |8/1/2026|How should I create base title screen and project?|Retro Game Using VB.Net Tutorial Videos|Create as shown in video.|Ensure Functional
+
 |8/1/2026|How can I ensure that the bricks will disspear when combined?|Retro Game Using VB.Net Tutorial Videos|Create as shown in video.|Ensure Stable
+
 |8/2/2026|Is there anything specifc I need to have before building the first version?|Week 10 Website|Read and complete all submission requriements before week 11|Approach Week 11 with everything planned.
 
 
